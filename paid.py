@@ -2,7 +2,7 @@
 #-----------------[ XYLON-King ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
+import urllib3,rch,base64
 from rich.table import Table as me
 from rich.console import Console as sol
 from bs4 import BeautifulSoup as sop
@@ -24,11 +24,11 @@ os.system("pkg install espeak")
 print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mCHECKING UPDATE...? ')
 os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
-#os.system('clear')
-print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
-os.system("espeak -a 300 \"UPDATE VERSION 6.3V,\"")
+#os.system('clea
+print('\033[38;5;5[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
+os.system("espeaka 300 \"UPDATE VERSION 6.3V,\"")
 time.sleep(2)
-#os.system('clear')
+#os.
 print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m SUBSCRIBE MY TELEGRAM CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY, TELEGRAM,CHANNEL,\"")
 time.sleep(2)
