@@ -2,7 +2,7 @@
 #-----------------[ XYLON-King ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rch,base64
+import urllib3,rich,base64
 from rich.table import Table as me
 from rich.console import Console as sol
 from bs4 import BeautifulSoup as sop
@@ -24,16 +24,16 @@ os.system("pkg install espeak")
 print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mCHECKING UPDATE...? ')
 os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
-#os.system('clea
-print('\033[38;5;5[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
-os.system("espeaka 300 \"UPDATE VERSION 6.3V,\"")
+#os.system('clear')
+print('\033[97;1m[\x1b[38;5;50m+\033[97;1m] \x1b[38;5;50mUPDATE VERSHON 6.3V...! ')
+os.system("espeak -a 300 \"UPDATE VERSION 6.3V,\"")
 time.sleep(2)
-#os.
+#os.system('clear')
 print("\033[97;1m[\x1b[38;5;50m+\033[97;1m]\x1b[38;5;50m SUBSCRIBE MY TELEGRAM CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY, TELEGRAM,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https//t.me/Abdullha_404')
-os.system(f'xdg-open Https//t.me/Abdullha_404')
+os.system(f'xdg-open https//t.me/Chanubatta')
+os.system(f'xdg-open Https//t.me/Chanubatta')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ XYLON-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -108,7 +108,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://github.com/Xylon-404/Approved/blob/main/Approved.txt').text
+        a=requests.get('https://github.com/chanubatta/Fl/blob/main/Approved.txt').text
         ua=open('bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
@@ -205,13 +205,13 @@ def clear():
 def back():
     login()
 def contact():
-    os.system('xdg-open https//t.me/Abdullha_404')
+    os.system('xdg-open https//t.me/chanubatta')
     back()
 def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system('xdg-open https//t.me/Abdullha_404')
+os.system('xdg-open https//t.me/chanubatta')
 logo =(f"""
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
 ▒██   ██▒▓██   ██▓ ██▓     ▒█████   ███▄    █ 
@@ -250,7 +250,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/Xylon-404/Approved/blob/main/Approved.txt').text
+    httpCaht = requests.get('https://github.com/chanubatta/Fl/blob/main/Approved.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -283,7 +283,7 @@ def naima():
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;91m[\033[1;92m√\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  Abdullha,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  Chanuka,  V I P,  Tools"')
 def back():
 	login()
 	
@@ -295,7 +295,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'XYLON' and password == '63':
+    if username == 'Chanuka' and password == '2002':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
     else:
@@ -372,7 +372,7 @@ def menu():
     elif XYLON in ['1']:
         crack_file()
     elif XYLON in ['2','02']:
-        os.system('xdg-open https://t.me/Abdullha_404')
+        os.system('xdg-open https://t.me/Chanubatta')
         os.system("python nono.py")
     elif XYLON in ['3','03']:
         result()
@@ -668,10 +668,10 @@ def passwrd():
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                    pwv.append(frs+'12')
-                    pwv.append(frs+'22')
-                    pwv.append(frs+'@12')
-                    pwv.append(frs+'4455')
+                    pwv.append(frs+'123')
+                    pwv.append(frs+'first@1234')
+                    pwv.append(frs+'first@123')
+                    pwv.append(frs+'first@12345')
                     pwv.append(frs+'00')                
                     pwv.append(frs+'123')
                     pwv.append(frs+'1234')
